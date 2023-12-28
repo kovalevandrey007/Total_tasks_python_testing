@@ -1,0 +1,11 @@
+2023-12-28 23:19:12 INFO ====== WebDriver manager ======
+2023-12-28 23:19:12 INFO Get LATEST chromedriver version for google-chrome
+2023-12-28 23:19:12 INFO Get LATEST chromedriver version for google-chrome
+2023-12-28 23:19:13 INFO Driver [/home/andy/.wdm/drivers/chromedriver/linux64/120.0.6099.109/chromedriver-linux64/chromedriver] found in cache
+2023-12-28 23:19:15 INFO Test1 starting
+2023-12-28 23:19:19 INFO Senf andy08 of element //*[@id="login"]/div[1]/label/input
+2023-12-28 23:19:20 INFO Senf 9f65c0c3f3 of element //*[@id="login"]/div[2]/label/input
+2023-12-28 23:19:20 INFO Click login button
+2023-12-28 23:19:20 INFO Click to "About"
+2023-12-28 23:19:23 INFO We find-size = 32px in success field
+2023-12-28 23:19:23 INFO We find-size = 32px in success field
