@@ -3,9 +3,4 @@ browser: chrome
 sleep_time: 2
 login: 'andy08'
 password: '9f65c0c3f3'
-loc1: '//*[@id="login"]/div[1]/label/input'
-loc2: '//*[@id="login"]/div[2]/label/input'
-loc3: 'button'
-loc4: '//*[@id="app"]/main/nav/ul/li[1]/a'
-loc5: '//*[@id="app"]/main/div/div/h1[@class="svelte-z9xc0"]'
 
