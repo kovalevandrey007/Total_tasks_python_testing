@@ -6,6 +6,7 @@ import yaml
 with open('./testdata.yaml') as f:
     testdata = yaml.safe_load(f)
     url = testdata['address']
+    
 class BasePage:
     def __init__(self, driver):
         self.driver = driver
